@@ -1,2 +1,3 @@
 Performing Sales Data Ingestion.
 New sales data ingested.
+Only one sales data is needed only.
